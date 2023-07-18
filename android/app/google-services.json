@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704837690056",
+    "project_id": "alphaz-bf6bd",
+    "storage_bucket": "alphaz-bf6bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704837690056:android:2bad92deb1b1692467fbfd",
+        "android_client_info": {
+          "package_name": "com.alphaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704837690056-hsrp7o6rpk4tun65hvtuhmooi2bvnlcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GxxGFayTtUndbLbcW8DWzdq09e2etwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704837690056-hsrp7o6rpk4tun65hvtuhmooi2bvnlcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
