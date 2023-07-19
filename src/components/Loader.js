@@ -5,7 +5,7 @@ const Loader = ({visible}) => {
     return (
         <Modal visible={visible} transparent>
             <View style={styles.ModleView}>
-                <Text style={styles.Txt}>Logging You In</Text>
+                <Text style={styles.Txt}>Wait PLease ⚠️</Text>
                 <View style={styles.mainView}>
                     <ActivityIndicator size={'large'} color={"#7d5ba6"} />
                 </View>
